@@ -1,0 +1,30 @@
+.main-font {
+  font-family: 'Merriweather', serif;
+}
+
+body{
+  width: 98%;
+  margin: auto ;
+}
+
+.money.plus
+{
+  color:green;
+}
+
+.money.minus
+{
+  color:red;
+}
+
+.fancy-button
+{
+  border:1px solid rgba(0, 0, 0, .5);
+  border-radius:5px ;
+
+}
+
+.fancy-button:hover
+{
+  border: 1px solid rgba(0, 0, 0, 1);
+}
